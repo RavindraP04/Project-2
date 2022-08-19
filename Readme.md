@@ -10,7 +10,7 @@
 
 ✨I got the basic undersatnding of adding a gradient effect on the body in the CSS and further I will be making this webpage responsive ✨
 
-[[Click here to view Live 🚀]]()
+[[Click here to view Live 🚀]](https://rp-project-2.netlify.app/)
 
 ## Screenshot of the Project 👇
 ![](./assets/Food%20Restaurant%20Home%20Page.png)
